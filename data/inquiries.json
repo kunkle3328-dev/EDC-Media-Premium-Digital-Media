@@ -1,0 +1,20 @@
+[
+  {
+    "id": "EDC-MV9G3IGO-6309",
+    "createdAt": "2026-10-15T11:18:15.864Z",
+    "fullName": "Marcus Thorne",
+    "businessName": "Lumina Robotics",
+    "email": "marcus@luminarobotics.io",
+    "phone": null,
+    "website": null,
+    "services": [
+      "video-production"
+    ],
+    "budget": "$5,000 – $10,000",
+    "timeline": "1 Month",
+    "description": "We need a flagship cinematic commercial video and modern web experience for our Series A announcement.",
+    "preferredContact": "email",
+    "consent": true,
+    "status": "new_lead"
+  }
+]
